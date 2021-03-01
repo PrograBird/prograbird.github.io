@@ -24,15 +24,9 @@ nav {
   width: 660px;
   margin: 0 auto 30px;
 }
-.menu ul {
-  list-style: none;
-  margin: 0; 
-  padding-left: 0;
+ul {
+  list-style: none; /*убираем маркеры списка*/
+  margin: 0; /*убираем верхнее и нижнее поле, равное 1em*/
+  padding-left: 0; /*убираем левый отступ, равный 40px*/
 }
-.menu a {
-    text-decoration: none;
-}
-.menu li {
-    display: inline;
-    margin-right: -4px;
-}
+a {text-decoration: none; /*убираем подчеркивание текста ссылок*/}
