@@ -5,7 +5,14 @@
     p {
         font-size: 40px;
     }
+    li {
+        font-size: 40px;
+    }
 }
+h1 {
+    font-align: center;
+    font-family: Garamond, "Times New Roman", Serif;
+    font-style: italic;
 p {
     font-family: Garamond, "Times New Roman", Serif;
 }
