@@ -19,15 +19,15 @@ p {
 .pypicture {
     border-radius: 12px;
 }
-.menu {
+.menu ul{
   list-style: none;
   margin: 0; 
   padding-left: 0;
 }
-.menulink {
+.menu a{
     text-decoration: none;
 }
-.menulist {
+.menu li{
     display: inline;
     margin-right: -4px;
 }
