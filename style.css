@@ -26,3 +26,7 @@ p {
 .menulink {
     text-decoration: none;
 }
+.menulist {
+    display: inline;
+    margin-right: -4px;
+}
